@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Map/Final_project_1.umap",
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Player/PlayerCharacter_BP.uasset",
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Player/PlayerProg_BP.uasset",
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Player/Projectile_MAT.uasset",
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Player/ArenaMode.uasset",
+				"C:/Users/PC/Downloads/Final_project_part1.2/Module_level/Content/Player/PlayerController_BP.uasset"
+			]
+		}
+	]
+}
